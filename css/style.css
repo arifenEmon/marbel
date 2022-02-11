@@ -18,6 +18,9 @@
     font-family: "Roboto Condensed";
     text-transform: uppercase;
 }
+nav .nav-link:hover {
+    color: #1abb9c !important;
+}
 .nav-manu .active{
     color: #1abb9c !important;
 }
